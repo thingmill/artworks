@@ -1,4 +1,4 @@
-# RetroBox Artworks
+# Thingmill Artworks
 
 Everything related to the Thingmill branding is here
 
