@@ -4,6 +4,10 @@ Everything related to the Thingmill branding is here
 
 Also, everything here is copyrighted, pls do nut steal
 
+## Font
+
+<a href="https://www.behance.net/gallery/28527567/ZELDA-Typeface">Zelda Font, Author : j3world on Behance</a>
+
 ## Colors
 
 |      Name      |       RGB        |   Hex   |         CYMK         |                       Desc                        |
