@@ -12,9 +12,9 @@ Also, everything here is copyrighted, pls do nut steal
 
 |      Name      |       RGB        |   Hex   |         CYMK         |                       Desc                        |
 |----------------|------------------|---------|----------------------|---------------------------------------------------|
-| Brown              | R:48 G:48 B:48  | #303030 | C:0  Y:0  M:0  K:0.8118  | ![#ff0000](https://placehold.it/15/303030/000000?text=+)   |
-| White           | R:246 G:246 B:246  | #f6f6f6 | C:0  Y:0  M:0  K:0.0353  | ![#fff000](https://placehold.it/15/f6f6f6/000000?text=+)   |
-| Blue            | R:77 G:182 B:172  | #4db6ac | C:0.5769  Y:0  M:0.9451  K:0.2863  | ![#00ff00](https://placehold.it/15/4db6ac/000000?text=+)   |
+| Brown              | R:48 G:48 B:48  | #303030 | C:0  Y:0  M:0  K:0.8118  | ![#ff0000](https://place-hold.it/15/303030/000000?text=+)   |
+| White           | R:246 G:246 B:246  | #f6f6f6 | C:0  Y:0  M:0  K:0.0353  | ![#fff000](https://place-hold.it/15/f6f6f6/000000?text=+)   |
+| Blue            | R:77 G:182 B:172  | #4db6ac | C:0.5769  Y:0  M:0.9451  K:0.2863  | ![#00ff00](https://place-hold.it/15/4db6ac/000000?text=+)   |
 
 __License :__
 
